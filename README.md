@@ -43,7 +43,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![image](https://github.com/user-attachments/assets/0e9036b8-3deb-4f55-aee2-75f024f2ddff)
+![8888](https://github.com/user-attachments/assets/f5723d7a-6b4e-462c-aa86-a1b5e8e7c6be)
+
 
 **RESULTS**
 SISO shift register using verilog and validating their functionality using their functional tables has sucessful execution of the program.
